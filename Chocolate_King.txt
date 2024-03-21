@@ -1,0 +1,107 @@
+Chocolate King
+Chocolate King Logo
+
+Welcome to Chocolate King - your ultimate destination for premium chocolates!
+
+Table of Contents
+Description
+Features
+Installation
+Usage
+Contributing
+License
+Description
+Chocolate King is an online platform where you can explore and purchase a wide variety of high-quality chocolates. Our collection includes delicious chocolate bars, pralines, and more, all crafted with the finest ingredients to ensure a delightful experience with every bite.
+
+Features
+Browse through a diverse range of chocolate products.
+Enjoy discounts and special offers on selected items.
+Read customer reviews to learn about others' experiences.
+Secure payment options and hassle-free delivery.
+Responsive design for seamless browsing on any device.
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/chocolate-king.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd chocolate-king
+Open the index.html file in your preferred web browser.
+
+Usage
+Explore different sections of the website using the navigation links.
+Click on product images to view detailed descriptions and prices.
+Add items to your cart and proceed to checkout for payment.
+Read customer reviews on the review section to learn about their experiences.
+Connect with us on social media for the latest updates and promotions.
+Image Sources
+The Chocolate King logo is created using AI by Bing Create.
+Product images are sourced from Fotofank.
+Contributing
+This project was created solely for practice and learning purposes. Contributions are not actively sought, but if you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Tento soubor README nyní zahrnuje informaci, že projekt vznikl pouze v rámci procvičování.
+
+
+
+User
+nee fotofank ale z fotobank
+ChatGPT
+Omlouvám se za chybu. Zde je opravená verze s uvedením fotobank jako zdroje obrázků:
+
+Chocolate King
+Chocolate King Logo
+
+Welcome to Chocolate King - your ultimate destination for premium chocolates!
+
+Table of Contents
+Description
+Features
+Installation
+Usage
+Contributing
+License
+Description
+Chocolate King is an online platform where you can explore and purchase a wide variety of high-quality chocolates. Our collection includes delicious chocolate bars, pralines, and more, all crafted with the finest ingredients to ensure a delightful experience with every bite.
+
+Features
+Browse through a diverse range of chocolate products.
+Enjoy discounts and special offers on selected items.
+Read customer reviews to learn about others' experiences.
+Secure payment options and hassle-free delivery.
+Responsive design for seamless browsing on any device.
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/chocolate-king.git
+Navigate to the project directory:
+
+bash
+Copy code
+cd chocolate-king
+Open the index.html file in your preferred web browser.
+
+Usage
+Explore different sections of the website using the navigation links.
+Click on product images to view detailed descriptions and prices.
+Add items to your cart and proceed to checkout for payment.
+Read customer reviews on the review section to learn about their experiences.
+Connect with us on social media for the latest updates and promotions.
+Image Sources
+The Chocolate King logo is created using AI by Bing Create.
+Product images are sourced from a photo bank.
+Contributing
+This project was created solely for practice and learning purposes. Contributions are not actively sought, but if you have any suggestions, feature requests, or bug reports, please feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
